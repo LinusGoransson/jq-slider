@@ -1,3 +1,10 @@
+#bower_components
+/bower_components
+
+#css will autogenerates from less
+/css
+
+
 *.class
 
 # Mobile Tools for Java (J2ME)
